@@ -22,4 +22,4 @@ This tool monitors file changes by calculating SHA-256 hashes and comparing them
 [Write a long explanation here: What is file integrity? Why use hashes? How the code works step-by-step. Add details from Task 1 poster. Research a bit on YouTube if needed.]
 
 ## Screenshots
-[Add later: Run the script, take screenshot of output in Command Prompt. Upload image to repo, then link it here with https://github.com/KunalPatil-04/CODTECH-Task1-File-Integrity-Checker/blob/main/check_screenshot.png?raw=true
+https://github.com/KunalPatil-04/CODTECH-Task1-File-Integrity-Checker/blob/main/check_screenshot.png?raw=true
