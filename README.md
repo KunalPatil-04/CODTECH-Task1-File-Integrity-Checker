@@ -36,6 +36,6 @@ In real life, this could watch server files or verify downloads. Those YouTube d
 
 
 - **Check Mode Output (After Changes):**
-- ![Check Integrity Screenshot] (https://github.com/KunalPatil-04/CODTECH-Task1-File-Integrity-Checker/blob/main/check_screenshot.png?raw=true)
+ ![Check Integrity Screenshot] (https://github.com/KunalPatil-04/CODTECH-Task1-File-Integrity-Checker/blob/main/check_screenshot.png?raw=true)
 
 
